@@ -1,7 +1,10 @@
-# ColorGuessingGame
+# Color Guessing Game
 This game can refresh your knowledge on RGB colors. Play it to check your knowledge!
 
-Installation:
+# Demo
+![Example of the Website](https://i.imgur.com/zhMq3yQ_d.webp?maxwidth=728&fidelity=grand)
+
+# Installation:
 1. To play, open up Notepad(Windows) or Text Edit(MacOS)
 2. Paste the file called "ColorGameHTML" into the editor.
 3. Save that file as "whatever you want here".html (Note: The ".html" is VERY IMPORTANT)
