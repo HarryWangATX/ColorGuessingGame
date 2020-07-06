@@ -2,7 +2,7 @@
 This game can refresh your knowledge on RGB colors. Play it to check your knowledge!
 
 # Demo
-![Example of the Website](https://i.imgur.com/zhMq3yQ_d.webp?maxwidth=728&fidelity=grand)
+![Example of the Website](https://imgur.com/gallery/jXdPwwM)
 
 # Installation
 1. To play, open up Notepad(Windows) or Text Edit(MacOS)
